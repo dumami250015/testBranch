@@ -1,0 +1,1 @@
+{"name":"Local: CoinCombinationsI","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\DynamicProgramming\\CoinCombinationsI.cpp","tests":[{"id":1727583177216,"input":"3 9\n2 3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\DynamicProgramming\\CoinCombinationsI.cpp","group":"local","local":true}

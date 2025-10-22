@@ -1,0 +1,1 @@
+{"name":"Local: CountingRooms","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\CountingRooms.cpp","tests":[{"id":1728199686187,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\CountingRooms.cpp","group":"local","local":true}

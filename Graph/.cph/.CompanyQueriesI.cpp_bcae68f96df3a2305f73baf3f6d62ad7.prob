@@ -1,0 +1,1 @@
+{"name":"Local: CompanyQueriesI","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\CompanyQueriesI.cpp","tests":[{"id":1728435950239,"input":"5 3\n1 1 3 3\n4 1\n4 2\n4 3","output":"3\n1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\CompanyQueriesI.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FlightDiscount","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\FlightDiscount.cpp","tests":[{"id":1728331992492,"input":"3 4\n1 2 3\n2 3 1\n1 3 7\n2 1 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\FlightDiscount.cpp","group":"local","local":true}

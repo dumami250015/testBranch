@@ -1,0 +1,1 @@
+{"name":"Local: TreeDiameter","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\TreeDiameter.cpp","tests":[{"id":1728424848607,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\Graph\\TreeDiameter.cpp","group":"local","local":true}

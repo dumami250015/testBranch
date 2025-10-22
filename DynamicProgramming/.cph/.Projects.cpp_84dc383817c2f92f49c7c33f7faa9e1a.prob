@@ -1,0 +1,1 @@
+{"name":"Local: Projects","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\DynamicProgramming\\Projects.cpp","tests":[{"id":1728011154467,"input":"4\n2 4 4\n3 6 6\n6 8 2\n5 7 3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\DynamicProgramming\\Projects.cpp","group":"local","local":true}

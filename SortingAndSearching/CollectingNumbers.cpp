@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+
+#define int long long
+#define ii pair<int, int>
+#define iii pair<ii, int>
+#define vii vector<ii>
+#define X first
+#define Y second
+using namespace std;
+
+const int oo = 1e18;
+const double eps = 0.000001;
+const int mod = 1e9 + 7;
+const int N = 2e5 + 7;
+
+int n, ans = 0;
+ii a[N];
+
+signed main () {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cin >> n;
+    for (int i = 1; i <= n; i++) {
+        cin >> a[i].X;
+        a[i].Y = i;
+    }
+    sort(a + 1, a + n + 1);
+    for ()
+    cout << ans;
+    return 0;
+}
+

@@ -1,0 +1,1 @@
+{"name":"Local: PizzeriaQueries","url":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\RangeQueries\\PizzeriaQueries.cpp","tests":[{"id":1728989711558,"input":"6 3\n8 6 4 5 7 5\n2 2\n1 5 1\n2 2","output":"5\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\KHOI\\CODE_FOR_BETTER_LIFE\\CP\\CSES\\RangeQueries\\PizzeriaQueries.cpp","group":"local","local":true}
